@@ -8,7 +8,7 @@ This is the code for [this](https://youtu.be/-_Qs0XdPpw8) video on Youtube by Si
 ### Updates
 
 Current code uses *Truffle v2.0.4*
-
+Run Truffle commands in BASH not Windows terminal. 
 
 ### Install
 
